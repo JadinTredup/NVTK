@@ -16,7 +16,7 @@ numpy==1.15.4
 OpenBCI-Python==1.0.0
 pbr==5.1.1
 Pillow==5.4.1
-protobuf==3.6.1
+protobuf==3.15.0
 pygame==1.9.4
 pylsl==1.13.1
 pyserial==3.4
